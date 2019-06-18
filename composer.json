@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-admin-page-styleguide",
+    "description": "Registrerar css resp js för admin",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
