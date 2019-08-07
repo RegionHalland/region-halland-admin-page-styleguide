@@ -10,6 +10,14 @@ Nedan följer instruktioner hur du kan använda pluginet "region-halland-admin-p
 Denna plugin kan lägga till css/js i admin och/eller en css för wordpress editor
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell via den medföljande filen:
+```sh
+LICENSE (https://github.com/RegionHalland/region-halland-admin-page-styleguide/blob/master/LICENSE)
+```
+
+
 ## Installation och aktivering
 
 ```sh
@@ -76,6 +84,10 @@ OBS! För editor css måste filen ligga i mappen web/app/themes/[DITT TEMA]/reso
 
 
 ## Versionhistorik
+
+### 1.3.0
+- Uppdaterat information om licensmodell
+- Bifogat fil med licensmodell
 
 ### 1.2.0
 - Lagt till kontroller om det finns angivna värden för respektive fil

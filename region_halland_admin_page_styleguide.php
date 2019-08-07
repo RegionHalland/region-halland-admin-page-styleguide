@@ -6,9 +6,9 @@
 	/*
 	Plugin Name: Region Halland Admin Page Styleguide
 	Description: Lägg till css/js i admin och/eller en css för wordpress editor
-	Version: 1.2.0
+	Version: 1.3.0
 	Author: Roland Hydén
-	License: MIT
+	License: GPL-3.0
 	Text Domain: regionhalland
 	*/
 

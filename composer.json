@@ -1,8 +1,8 @@
 {
     "name": "regionhalland/region-halland-admin-page-styleguide",
-    "description": "Registrerar css resp js för admin",
+    "description": "Registrerar css/js i admin och/eller en css för wordpress editor",
     "type": "wordpress-plugin",
-    "license": "MIT",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "Roland Hydén",
